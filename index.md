@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Alexander Junge
-tagline: Personal website
-description: Minimal website with GitHub Pages
+title: Welcome
+tagline: to my website
+description: Website created by Alexander Junge with GitHub Pages
 ---
 
-# This is a test
+# Hello!
 
 The website is currently under construction.
