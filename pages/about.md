@@ -13,3 +13,5 @@ Alexander Junge is PhD student in RNA bioinformatics
 Profile on Twitter: [![Twitter profile](icons-small/twitter.ico)](https://twitter.com/JungeAlexander) 
 
 Profile on GitHub: [![GitHub profile](icons-small/github.ico)](https://github.com/JungeAlexander)
+
+Profile on Wikipedia: [![Wikipedia profile](icons-small/wikipedia.ico)](https://en.wikipedia.org/wiki/User:AlexanderJunge)
