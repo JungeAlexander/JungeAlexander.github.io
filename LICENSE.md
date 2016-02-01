@@ -1,1 +1,3 @@
-Contents of this website are licensed under [![CCBY](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/).
+Built with [Jekyll](http://jekyllrb.com/) using the [Shiori theme](https://github.com/ellekasai/shiori).
+
+Contents contributed by Alexander Junge licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
