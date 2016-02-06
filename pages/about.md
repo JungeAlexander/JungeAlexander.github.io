@@ -12,7 +12,7 @@ description: Website created by Alexander Junge with GitHub Pages
 - *08/2011--12/2011*: Semester abroad, Linköping University, Linköping, Sweden
 - *10/2008--08/2011*: Bachelor of Science in Bioinformatics (Computational Molecular Biology), Saarland University, Saarbrücken, Germany. Thesis supervisor: Professor Dr Dr Thomas Lengauer
 
-Full curriculum vitae as `.pdf`: [here]({{ BASE_PATH }}/assets/website-cv-alexander-junge.pdf)
+Full curriculum vitae as `.pdf`: [here]({{ BASE_PATH }}/assets/alexander-junge-cv-website.pdf)
 
 ## Volunteering
 

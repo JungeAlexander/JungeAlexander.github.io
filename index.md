@@ -15,3 +15,4 @@ From time to time I also write about my research and general interestes on my [b
 - [Twitter](https://twitter.com/JungeAlexander) 
 - [GitHub](https://github.com/JungeAlexander)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:AlexanderJunge)
+- [LinkedIn](https://www.linkedin.com/in/alexanderjunge)
