@@ -16,3 +16,5 @@ From time to time I also write about my research and general interestes on my [b
 - [GitHub](https://github.com/JungeAlexander)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:AlexanderJunge)
 - [LinkedIn](https://www.linkedin.com/in/alexanderjunge)
+
+![Profile picture](assets/alexander-junge.png)
