@@ -4,18 +4,17 @@ title: about
 description: Website created by Alexander Junge with GitHub Pages
 ---
 
-Alexander Junge is PhD student in RNA bioinformatics
+## Brief CV
 
-Vice-Chair of the [International Society for Computational Biology (ISCB) Student Council](http://iscbsc.org/)
+- *03/2014--present*: PhD student in theoretical and applied RNA Bioinformatics at the [Center for non-coding RNA in Technology and Health (RTH)](http://rth.dk/), University of Copenhagen, Denmark. My supervisor is Professor Jan Gorodkin, PhD and my current research activities are described under [projects](/pages/projects.html) and listed under [publications](/pages/publications.html).
+- *10/2011--02/2014*: Master of Science in Bioinformatics, Saarland University, Saarbrücken, Germany. Thesis supervisor: Associate Professor Dr Jan Baumbach
+- *03/2013--08/2013*: Research stay in the [research group on Computational Biology](http://www.baumbachlab.net/) at University of Southern Denmark, Odense, Denmark.
+- *08/2011--12/2011*: Semester abroad, Linköping University, Linköping, Sweden
+- *10/2008--08/2011*: Bachelor of Science in Bioinformatics (Computational Molecular Biology), Saarland University, Saarbrücken, Germany. Thesis supervisor: Professor Dr Dr Thomas Lengauer
 
-Co-founder and secretary of [CBioVikings &mdash; ISCB Regional Student Group Denmark](http://cbiovikings.org/)
+Full curriculum vitae as `.pdf`: [here]({{ BASE_PATH }}/assets/website-cv-alexander-junge.pdf)
 
-Curriculum vitae: [![CV as pdf](icons-small/pdf.ico)]({{ BASE_PATH }}/assets/CV-Alexander-Junge.pdf)
+## Volunteering
 
-Profile on Twitter: [![Twitter profile](icons-small/twitter.ico)](https://twitter.com/JungeAlexander) 
-
-Profile on GitHub: [![GitHub profile](icons-small/github.ico)](https://github.com/JungeAlexander)
-
-Profile on Wikipedia: [![Wikipedia profile](icons-small/wikipedia.ico)](https://en.wikipedia.org/wiki/User:AlexanderJunge)
-
-Profile on ORCID: [![ORCID profile](icons-small/orcid.ico)](http://orcid.org/0000-0002-2410-9671)
+- *01/2015--present*: Vice-Chair and Outreach Chair of the [International Society for Computational Biology (ISCB) Student Council](http://iscbsc.org/)
+- *01/2015--present*: Co-founder and Secretary of [CBioVikings &mdash; ISCB Regional Student Group Denmark](http://cbiovikings.org/)
