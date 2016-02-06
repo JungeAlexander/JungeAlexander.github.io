@@ -16,6 +16,11 @@ author :
   twitter : JungeAlexander
   feedburner : nil
 
+# For blog config
+name: Alexander Junge's blog
+description: A blog about bioinformatics and everything else.
+url: http://alexanderjunge.net/pages/blog.html
+
 production_url : http://jungealexander.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
