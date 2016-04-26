@@ -10,6 +10,66 @@ description: Website created by Alexander Junge with GitHub Pages
 
 # <a name="curr">Current projects</a>
 
+As part of my PhD at the
+[Center for non-coding RNA in Technology and Health (RTH)](http://rth.dk/), University of Copenhagen, Denmark, I work on the
+following projects. My thesis supervisor is
+[Jan Gorodkin](http://rth.dk/~gorodkin/).
+
+## Integrating RNA and protein interactions
+
+In this project we are developing a database called
+[RAIN](http://rth.dk/resources/rain/) (RNA–protein Association and Interaction Networks).
+The project goal is to collect RNA--RNA and RNA--protein interactions from a
+diverse range of sources: we
+a) search interactions by text mining abstracts of millions of
+scientific papers,
+b) collect experimentally validated interactions of non-coding RNAs from various
+databases,
+c) predict miRNA--targets using state of the art prediction algorithms,
+and d) collect curated knowledge from biological textbooks.
+We then integrate these sources of evidence and assign an easily interpretable
+confidence score to each interaction.
+This integrative scoring allows users to decide whether to trust a given
+interaction or not.
+
+The integration of RAIN with the popular [STRING](http://string-db.org/)
+database enables us to visualize both RNA and protein interaction networks in a
+single, easily accessible user interface.
+This project is a collaboration between four research institutes in Denmark
+and one in Switzerland.
+
+## Clustering of RNA secondary structures
+
+Besides being translated into proteins, RNA molecules fulfill many biological
+functions ranging from the regulation of gene expression to genomic defense
+mechanisms.
+The secondary structure of RNA molecules is often crucial to their function.
+We are developing an approach o identify similar RNA structures in large-scale
+data sets thus shedding light on potential functional relationships between
+RNAs.
+Our approach tries to take RNA secondary structure conserved across species
+into account in order to improve the clustering.
+
+This project is a collaboration with the
+[Bioinformatics Group](http://www.bioinf.uni-freiburg.de/?en) at the University
+of Freiburg, Germany.
+
+## Competitive endogenous RNAs in leukemia
+
+Competitive endogenous RNAs (ceRNAs), also known as miRNA sponges, are
+RNA molecules that bind microRNAs thus titrating those microRNAs away from their
+normal targets.
+This phenomenon leads to a dysregulation of the fine-tuned gene expression
+levels in the cell.
+ceRNAs have been linked to breast or skin cancer development.
+We are researching into the role of miRNA sponges in leukemia.
+
+This project is a collaboration with the The Granulocyte Research Laboratory at
+[Rigshospitalet](https://www.rigshospitalet.dk/english/Pages/default.aspx),
+the Danish State Hospital.
+This close collaboration between experimental and computational biology makes
+this project especially interesting to me.
+
 # <a name="prev">Previous projects</a>
 
 ## Active transitivity clustering
