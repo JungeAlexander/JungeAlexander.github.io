@@ -10,6 +10,8 @@ My name is Alexander Junge, I am currently working on a PhD in RNA Bioinformatic
 
 From time to time I also write about my research and general interests on my [blog](/pages/blog.html).
 
+Subscribe to blog Atom feed: [![Blog subscribe](assets/feed-icon-24px.png)](feed.xml)
+
 ## Other places to find me
 
 - [Twitter](https://twitter.com/JungeAlexander) 
