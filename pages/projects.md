@@ -52,7 +52,10 @@ into account in order to improve the clustering.
 
 This project is a collaboration with the
 [Bioinformatics Group](http://www.bioinf.uni-freiburg.de/?en) at the University
-of Freiburg, Germany.
+of Freiburg, Germany. The project website is available
+[here](http://www.bioinf.uni-freiburg.de/Software/RNAscClust/).
+Furthermore, a short video (~1 min.) where I talk about our project is available
+([link to blog post]({{BASE_PATH}}/2016/07/17/video/)). 
 
 ## Competitive endogenous RNAs in leukemia
 
