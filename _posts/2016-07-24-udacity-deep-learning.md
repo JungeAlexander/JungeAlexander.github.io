@@ -22,15 +22,17 @@ regularization;
 convolutional NNs;
 embeddings;
 long short-term memory recurrent NNs.
+Furthermore, basic ML concepts such as splitting your data into train,
+test, and validation set are explained.
 
-It consists of 4 lessons with short 2-3 minute videos and a total of
+It consists of 4 lessons with ~10 short, 2-3 minute videos and a total of
 6 programming assignments.
 The videos are presented by
 [Vincent Vanhoucke](http://vincent.vanhoucke.com/),
 Principal Scientist at Google,
-and contain lots of simple drawings which make it very easy to understand the
+and contain lots of simple drawings which make it easy to understand the
 course materials.
-I spent about two hours watching and summarizing the videos in each section
+I spent about two hours watching and summarizing the videos in each lesson
 and 2-3 hours on each of the assignments.
 
 ## Course assignments
@@ -49,12 +51,13 @@ assignments will give you a basic understanding of how deep NNs can be
 implemented using TensorFlow.
 
 The problems presented in the assignments are quite interesting, e.g.,
-classifying letters in the
+classifying characters in the
 [notMNIST](http://yaroslavvb.blogspot.dk/2011/09/notmnist-dataset.html) data
 set.
 One drawback is however, that not a lot of effort was made to clearly
 specify the sub-tasks in each assignments.
 This will force course participants to spend quite some time searching the
-course forums for clues. This no big problem since the users in the course
-forums are quite active but could definitely be improved in coming iterations
+course forums for clues. This is not a huge problem since the course
+forums are quite active but this is something that
+could definitely be improved in coming iterations
 of the course.
