@@ -43,7 +43,7 @@ The integration of RAIN with the popular [STRING](http://string-db.org/)
 database enables us to visualize both RNA and protein interaction networks in a
 single, easily accessible user interface:
 
-![rain_user_interface]({{BASE_PATH}}/assets/projects/rain.png)
+![rain_user_interface]({{BASE_PATH}}/assets/projects/rain_user_interface.png)
 
 This project is a collaboration between four research institutes in Denmark
 and one in Switzerland.
