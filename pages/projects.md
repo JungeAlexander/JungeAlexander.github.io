@@ -10,9 +10,16 @@ description: Website created by Alexander Junge with GitHub Pages
 
 # <a name="curr">Current projects</a>
 
-As part of my PhD at the
-[Center for non-coding RNA in Technology and Health (RTH)](http://rth.dk/), University of Copenhagen, Denmark, I work on the
-following projects. My thesis supervisor is
+I recently started a postdoctoral research position in biomedical text mining.
+My research combines supervised machine learning approaches with unsupervised, co-occurrence based techniques to infer associations between genes, proteins, chemicals, or diseases.
+I am particularly excited about applying advances in deep learning for natural language processing to answer biomedical questions. 
+Stay tuned for further updates.
+
+# <a name="prev">Previous projects</a>
+
+As part of my PhD studies at the
+[Center for non-coding RNA in Technology and Health (RTH)](http://rth.dk/), University of Copenhagen, Denmark, I worked on the
+following projects. My thesis supervisor was
 [Jan Gorodkin](http://rth.dk/~gorodkin/).
 
 ## Integrating RNA and protein interactions
@@ -34,9 +41,15 @@ interaction or not.
 
 The integration of RAIN with the popular [STRING](http://string-db.org/)
 database enables us to visualize both RNA and protein interaction networks in a
-single, easily accessible user interface.
+single, easily accessible user interface:
+
+![rain_user_interface]({{BASE_PATH}}/assets/projects/rain.png)
+
 This project is a collaboration between four research institutes in Denmark
 and one in Switzerland.
+
+Relevant publication: 
+[https://doi.org/10.1093/database/baw167](https://doi.org/10.1093/database/baw167)
 
 ## Clustering of RNA secondary structures
 
@@ -44,11 +57,14 @@ Besides being translated into proteins, RNA molecules fulfill many biological
 functions ranging from the regulation of gene expression to genomic defense
 mechanisms.
 The secondary structure of RNA molecules is often crucial to their function.
-We are developing an approach o identify similar RNA structures in large-scale
+We are developing an approach to identify similar RNA structures in large-scale
 data sets thus shedding light on potential functional relationships between
 RNAs.
 Our approach tries to take RNA secondary structure conserved across species
-into account in order to improve the clustering.
+into account in order to improve the clustering using a graph kernel-based approach
+depicted below.
+
+![graph_kernel]({{BASE_PATH}}/assets/projects/graph_kernel.png)
 
 This project is a collaboration with the
 [Bioinformatics Group](http://www.bioinf.uni-freiburg.de/?en) at the University
@@ -56,6 +72,9 @@ of Freiburg, Germany. The project website is available
 [here](http://www.bioinf.uni-freiburg.de/Software/RNAscClust/).
 Furthermore, a short video (~1 min.) where I talk about our project is available
 ([link to blog post]({{BASE_PATH}}/2016/07/17/video)). 
+
+Relevant publication: 
+[https://doi.org/10.1093/bioinformatics/btx114](https://doi.org/10.1093/bioinformatics/btx114)
 
 ## Competitive endogenous RNAs in leukemia
 
@@ -67,13 +86,16 @@ levels in the cell.
 ceRNAs have been linked to breast or skin cancer development.
 We are researching into the role of miRNA sponges in leukemia.
 
+![sponge]({{BASE_PATH}}/assets/projects/sponge.png)
+
 This project is a collaboration with the The Granulocyte Research Laboratory at
 [Rigshospitalet](https://www.rigshospitalet.dk/english/Pages/default.aspx),
 the Danish State Hospital.
 This close collaboration between experimental and computational biology makes
 this project especially interesting to me.
 
-# <a name="prev">Previous projects</a>
+Relevant publication: 
+[https://doi.org/10.1016/j.gene.2017.03.015](https://doi.org/10.1016/j.gene.2017.03.015)
 
 ## Active transitivity clustering
 
