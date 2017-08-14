@@ -17,6 +17,7 @@ Subscribe to blog Atom feed: [![Blog subscribe](assets/feed-icon-24px.png)](feed
 - [Twitter](https://twitter.com/JungeAlexander) 
 - [GitHub](https://github.com/JungeAlexander)
 - [LinkedIn](https://www.linkedin.com/in/alexanderjunge)
+- [SlideShare](https://www.slideshare.net/AlexanderJunge1)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:AlexanderJunge)
 
 ![Profile picture](assets/alexander-junge.png)
